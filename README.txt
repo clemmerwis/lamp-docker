@@ -1,2 +1,2 @@
 site: http://localhost:8101/
-phpmyadmin: 
+phpmyadmin: http://localhost:8102/
